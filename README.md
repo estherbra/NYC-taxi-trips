@@ -21,10 +21,13 @@ O mesmo tem como objetivo realizar uma análise exploratória de dados presentes
 
 # Configurando o ambiente
 
-### Requirementos
+### Requerimentos
 
-- Java version "1.8.0_301"
-- Python 3.8.5
+- Java version 1.8.0_301
+- Python version 3.8.5
+- Pandas version 1.3.2
+- Matplotlib version 3.4.3
+- Numpy version 1.19.5
 
  <br/>
 
